@@ -40,6 +40,7 @@
             this.txt_Tipo_Empleado = new System.Windows.Forms.TextBox();
             this.txt_Nombre_Registro = new System.Windows.Forms.TextBox();
             this.btn_Registrarse = new System.Windows.Forms.Button();
+            this.btnregresar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -154,7 +155,7 @@
             this.btn_Registrarse.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btn_Registrarse.Font = new System.Drawing.Font("MV Boli", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Registrarse.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btn_Registrarse.Location = new System.Drawing.Point(301, 390);
+            this.btn_Registrarse.Location = new System.Drawing.Point(451, 390);
             this.btn_Registrarse.Name = "btn_Registrarse";
             this.btn_Registrarse.Size = new System.Drawing.Size(145, 32);
             this.btn_Registrarse.TabIndex = 12;
@@ -162,12 +163,26 @@
             this.btn_Registrarse.UseVisualStyleBackColor = false;
             this.btn_Registrarse.Click += new System.EventHandler(this.btn_Registrarse_Click);
             // 
+            // btnregresar
+            // 
+            this.btnregresar.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.btnregresar.Font = new System.Drawing.Font("MV Boli", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnregresar.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnregresar.Location = new System.Drawing.Point(94, 390);
+            this.btnregresar.Name = "btnregresar";
+            this.btnregresar.Size = new System.Drawing.Size(145, 32);
+            this.btnregresar.TabIndex = 13;
+            this.btnregresar.Text = "REGRESAR";
+            this.btnregresar.UseVisualStyleBackColor = false;
+            this.btnregresar.Click += new System.EventHandler(this.btnregresar_Click);
+            // 
             // Registro
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnregresar);
             this.Controls.Add(this.btn_Registrarse);
             this.Controls.Add(this.txt_Nombre_Registro);
             this.Controls.Add(this.txt_Tipo_Empleado);
@@ -201,5 +216,6 @@
         private System.Windows.Forms.TextBox txt_Tipo_Empleado;
         private System.Windows.Forms.TextBox txt_Nombre_Registro;
         private System.Windows.Forms.Button btn_Registrarse;
+        private System.Windows.Forms.Button btnregresar;
     }
 }

@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\keily\\onedrive\\escritorio\\proyectoprogra!\\proyectofinalprogra1\\proyectofinal\\proyectofinal\\opcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\opcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\keily\\onedrive\\escritorio\\proyectoprogra!\\proyectofinalprogra1\\proyectofinal\\proyectofinal\\gestiondepasientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\gestiondepasientes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\proyectofinal\\gestiondepasientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\gestiondepasientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\proyectofinal\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\proyectofinal\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\keily\\onedrive\\escritorio\\proyectoprogra!\\proyectofinalprogra1\\proyectofinal\\proyectofinal\\opcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\opcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\proyectofinal\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\proyectofinal\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\proyectofinal\\gestiondepasientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\gestiondepasientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\proyectofinal\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\keily\\onedrive\\escritorio\\proyectoprogra!\\proyectofinalprogra1\\proyectofinal\\proyectofinal\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|c:\\users\\keily\\onedrive\\escritorio\\proyectoprogra!\\proyectofinalprogra1\\proyectofinal\\proyectofinal\\conxionbasededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\conxionbasededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\proyectofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C22A6-E2FE-469F-8C3E-E9FDF778BABB}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "opcion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\opcion.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\opcion.cs",
+              "ToolTip": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\opcion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoFinal\\opcion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:04:08.037Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestionDePasientes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\GestionDePasientes.Designer.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\GestionDePasientes.Designer.cs",
+              "ToolTip": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\GestionDePasientes.Designer.cs",
+              "RelativeToolTip": "ProyectoFinal\\GestionDePasientes.Designer.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAvwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T04:41:49.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestionDePasientes.cs",
+              "DocumentMoniker": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\GestionDePasientes.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\GestionDePasientes.cs",
+              "ToolTip": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\GestionDePasientes.cs",
+              "RelativeToolTip": "ProyectoFinal\\GestionDePasientes.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAjwC8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:30:29.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\Registro.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Registro.cs",
+              "ToolTip": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\Registro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoFinal\\Registro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:20:11.489Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\Login.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Login.cs",
+              "ToolTip": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\Login.cs",
+              "RelativeToolTip": "ProyectoFinal\\Login.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAWwCMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:20:23.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "opcion.cs",
+              "DocumentMoniker": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\opcion.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\opcion.cs",
+              "ToolTip": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\opcion.cs",
+              "RelativeToolTip": "ProyectoFinal\\opcion.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:14:55.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\Registro.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Registro.cs",
+              "ToolTip": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\Registro.cs",
+              "RelativeToolTip": "ProyectoFinal\\Registro.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:27:29.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\Login.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Login.cs",
+              "ToolTip": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoFinal\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:20:20.325Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GestionDePasientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\GestionDePasientes.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\GestionDePasientes.cs",
+              "ToolTip": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\GestionDePasientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoFinal\\GestionDePasientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:30:22.616Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "crud.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\crud.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\crud.cs",
+              "ToolTip": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\crud.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoFinal\\crud.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:29:43.289Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "empleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\empleados.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\empleados.cs",
+              "ToolTip": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\empleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoFinal\\empleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T05:03:35.457Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConxionBaseDeDatos.cs",
+              "DocumentMoniker": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\ConxionBaseDeDatos.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\ConxionBaseDeDatos.cs",
+              "ToolTip": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\ConxionBaseDeDatos.cs",
+              "RelativeToolTip": "ProyectoFinal\\ConxionBaseDeDatos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:27:40.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoprogra!\\ProyectoFinalProgra1\\ProyectoFinal\\ProyectoFinal\\Program.cs",
+              "RelativeToolTip": "ProyectoFinal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T22:20:01.616Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

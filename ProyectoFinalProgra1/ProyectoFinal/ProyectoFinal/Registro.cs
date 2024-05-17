@@ -40,5 +40,14 @@ namespace ProyectoFinal
                 }
             }
         }
+
+        private void btnregresar_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            //te abre el formulario de opcion
+            Login login = new Login();
+            login.Show();
+            
+        }
     }
 }

@@ -47,6 +47,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConxionBaseDeDatos.cs" />
+    <Compile Include="crud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="crud.Designer.cs">
+      <DependentUpon>crud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="empleados.Designer.cs">
+      <DependentUpon>empleados.cs</DependentUpon>
+    </Compile>
     <Compile Include="GestionDePasientes.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -58,6 +70,12 @@
     </Compile>
     <Compile Include="Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="opcion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="opcion.Designer.cs">
+      <DependentUpon>opcion.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -73,6 +91,9 @@
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="opcion.resx">
+      <DependentUpon>opcion.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -81,6 +102,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="Registro.resx">
       <DependentUpon>Registro.cs</DependentUpon>
@@ -97,6 +119,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pasciente.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -29,5 +29,25 @@ namespace ProyectoFinal
             this.Close();
 
         }
+
+        private void tn_Historrial_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void GestionDePasientes_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
