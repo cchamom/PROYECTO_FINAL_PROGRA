@@ -23,3 +23,16 @@ C:\Users\keily\OneDrive\Escritorio\proyectoprogra!\ProyectoFinalProgra1\Proyecto
 C:\Users\keily\OneDrive\Escritorio\proyectoprogra!\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
 C:\Users\keily\OneDrive\Escritorio\proyectoprogra!\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
 C:\Users\keily\OneDrive\Escritorio\proyectoprogra!\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.opcion.resources
+C:\Users\Cristian Chamo\Desktop\PROYECTO_PROGRA\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Cristian Chamo\Desktop\PROYECTO_PROGRA\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Cristian Chamo\Desktop\PROYECTO_PROGRA\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Cristian Chamo\Desktop\PROYECTO_PROGRA\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Cristian Chamo\Desktop\PROYECTO_PROGRA\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.GestionDePasientes.resources
+C:\Users\Cristian Chamo\Desktop\PROYECTO_PROGRA\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Login.resources
+C:\Users\Cristian Chamo\Desktop\PROYECTO_PROGRA\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.opcion.resources
+C:\Users\Cristian Chamo\Desktop\PROYECTO_PROGRA\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Cristian Chamo\Desktop\PROYECTO_PROGRA\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Registro.resources
+C:\Users\Cristian Chamo\Desktop\PROYECTO_PROGRA\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Cristian Chamo\Desktop\PROYECTO_PROGRA\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Chamo\Desktop\PROYECTO_PROGRA\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Cristian Chamo\Desktop\PROYECTO_PROGRA\ProyectoFinalProgra1\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb

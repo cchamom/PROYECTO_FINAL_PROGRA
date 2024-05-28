@@ -11,7 +11,7 @@ using System.Data.SqlClient;
 using System.Diagnostics.Eventing.Reader;
 
 namespace ProyectoFinal
-{ 
+{
     public partial class Login : Form
     {
         public Login()
@@ -21,7 +21,7 @@ namespace ProyectoFinal
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+
         }
         //para que el usuario pueda iniciar sesion
         private void btn_Acceder_Click(object sender, EventArgs e)
@@ -31,8 +31,8 @@ namespace ProyectoFinal
             if (usuario == "keily02" && contraseña == "lopez2024")
                 this.Hide();
             //te abre el formulario de opcion
-                opcion Opcion = new opcion();
-                Opcion.Show();
+            opcion Opcion = new opcion();
+            Opcion.Show();
             Console.WriteLine("se abrio correctamente");
 
             using (SqlConnection connection = new SqlConnection("Data Source=DESKTOP-PQBRDPK\\SQLEXPRESS;Initial Catalog=Usuarios;Integrated Security=True;"))
@@ -55,14 +55,14 @@ namespace ProyectoFinal
             }
 
 
-            }
+        }
 
         private void btn_Limpiar_Click(object sender, EventArgs e)
         {
             txt_Usuario.Text = " ";
             txt_Contraseña.Text = " ";
 
-        } 
+        }
 
         private void btn_X_Click(object sender, EventArgs e)
         {
@@ -71,14 +71,19 @@ namespace ProyectoFinal
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void btn_Registro_Click(object sender, EventArgs e)
         {
             Registro registro = new Registro();
             registro.Show();
-          
+
+        }
+
+        private void txt_Usuario_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
